@@ -1,0 +1,72 @@
+body {
+  font-size: 1.35em;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #AEFFCF;
+  font-family: 'Reem Kufi', sans-serif;
+}
+h2 {
+  text-align: center;
+}
+.container {
+  background: #fff;
+  border-radius: .5em;
+  margin: 10vmin;
+  padding: 1vmin;
+  height: 50vh;
+}
+.item {
+  color: #fff;
+  padding: 1vh;
+  margin: 5px;
+  background-color: #5A83D3;
+  border-radius: .5em;
+}
+
+/************ Exercise 2 *************/
+.exercise-2 {
+/*  border: 1px solid black;*/
+  height: 20vh;
+}
+.nav-bar {
+/*  border: 1px solid purple;*/
+}
+.logo {
+/*  border: 1px solid orange;*/
+  height: 20vmin;
+  width: 30vmin;
+}
+
+.menu {
+/*  border: 1px solid blue;*/
+  text-align: center;
+  display: block;
+  padding: 10px 15px;
+  font-size: .95em;
+  text-transform: uppercase;
+  list-style: none;
+}
+.menu-item {
+  margin: 3vh;
+/*  border: 1px solid red;*/
+}
+
+.menu-item:hover {
+  color: blue;
+}
+
+/************ Exercise 3 *************/
+.exercise-3 {
+  height: 70vh;
+}
+
+.photogallery {
+  border: 1px solid orangered;
+  height: 60vmin;
+  width: 60vmin;
+}
+
+img {
+  height: 10vmin;
+  width: 10vmin;
+}
